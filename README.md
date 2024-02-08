@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @peterqlyon
+- I’m interested in Data Science, Music, and Traveling. 
+- I’m currently learning Python, Power BI, SQL, and Tableau. looking to learn other programming languages and Looker. 
+- How to reach me reach out to me? [LinkedIn](https://www.linkedin.com/in/peterqlyon/) or on Here. 
+- ⚡ Fun fact: I've been to the bottom of the Grand Canyon 
