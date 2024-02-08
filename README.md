@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @peterqlyon
-- I’m interested in Data Science, Music, and Traveling. 
-- I’m currently learning Python, Power BI, SQL, and Tableau. looking to learn other programming languages and Looker. 
-- How to reach me reach out to me? [LinkedIn](https://www.linkedin.com/in/peterqlyon/) or on Here. 
-- ⚡ Fun fact: I've been to the bottom of the Grand Canyon 
+- I’m interested in Data Science, Music, and Traveling
+- I'm an RPCV frorm Micronesia and Guatemala
+- I’m currently learning Python, Power BI, SQL, and Tableau.
+-  - Also I'm looking to learn other programming languages like R and Java Script and BI platforms like Looker
+-
+- How to reach me reach out to me? [LinkedIn](https://www.linkedin.com/in/peterqlyon/) or on here
+- ⚡ Fun fact: I've been to the bottom of the Grand Canyon
